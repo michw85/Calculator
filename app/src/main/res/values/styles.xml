@@ -15,7 +15,7 @@
         <item name="android:textColor">#ffffff</item>
         <item name="android:gravity">center</item>
         <item name="android:layout_margin">0.5dp</item>
-        <item name="android:textSize">42sp</item>
+        <item name="android:textSize">44sp</item>
 <!--        <item name="android:borderlessButtonStyle">#ffffff</item>-->
     </style>
 
@@ -27,7 +27,7 @@
         <item name="android:textColor">#ffffff</item>
         <item name="android:gravity">center</item>
         <item name="android:layout_margin">0.5dp</item>
-        <item name="android:textSize">42sp</item>
+        <item name="android:textSize">44sp</item>
     </style>
 
 </resources>
